@@ -1,0 +1,12 @@
+{
+    "chedold": "1",
+    "delayopenLD": {
+        "openmin": "1",
+        "openmax": "3"
+    },
+    "delaycloseLD": {
+        "closemin": "1",
+        "closemax": "3"
+    },
+    "pathldplayer": "C:\\LDPlayer\\LDPlayer9"
+}

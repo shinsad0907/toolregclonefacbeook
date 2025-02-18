@@ -1,0 +1,16 @@
+{
+    "activesms": {
+        "api": ""
+    },
+    "activemail": {
+        "tempmail": {
+            "active": 1
+        },
+        "hotmail": {
+            "type_mail": {
+                "mkmail": 0,
+                "randommail": 0
+            }
+        }
+    }
+}

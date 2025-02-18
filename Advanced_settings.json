@@ -1,0 +1,11 @@
+{
+    "CPU": "2",
+    "RAM": "2048",
+    "WIDTH": "350",
+    "HEIGHT": "650",
+    "DPI": "240",
+    "CACHE": "1",
+    "OTHER": "1",
+    "ADB": "1",
+    "pathTesseractOCR": ""
+}
